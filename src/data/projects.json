@@ -1,0 +1,21 @@
+[
+  {
+    "id": "01",
+    "image": "/path/to/image1.jpg",
+    "title": "Proyecto 1",
+    "linkGithub": "https://github.com/usuario/proyecto1",
+    "linkVercel": "https://proyecto1.vercel.app"
+  },
+  {
+    "id": "02",
+    "image": "https://static.vecteezy.com/system/resources/previews/010/696/905/non_2x/hola-hi-phrase-lettering-isolated-on-white-colourful-text-effect-design-text-or-inscriptions-in-english-the-modern-and-creative-design-has-red-orange-yellow-colors-vector.jpg",
+    "title": "Proyecto 2",
+    "linkGithub": "https://github.com/usuario/proyecto2"
+  },
+  {
+    "id": "03",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/4f3d8a8211271.560b92579c493.jpg",
+    "title": "Proyecto 2",
+    "linkGithub": "https://github.com/usuario/proyecto2"
+  }
+]
